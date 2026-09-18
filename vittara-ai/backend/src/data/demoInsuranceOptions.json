@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ins-a",
+    "planName": "Plan A",
+    "monthlyPremium": 850,
+    "coverageAmount": 500000,
+    "deductible": 5000,
+    "waitingPeriodMonths": 24,
+    "exclusions": ["Cosmetic procedures", "Pre-existing conditions (first 24 months)"],
+    "notes": "Balanced premium and coverage."
+  },
+  {
+    "id": "ins-b",
+    "planName": "Plan B",
+    "monthlyPremium": 1200,
+    "coverageAmount": 800000,
+    "deductible": 2500,
+    "waitingPeriodMonths": 12,
+    "exclusions": ["Cosmetic procedures", "Self-inflicted injury"],
+    "notes": "Higher premium, higher coverage, shorter waiting period."
+  }
+]

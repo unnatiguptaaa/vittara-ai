@@ -1,0 +1,32 @@
+[
+  {
+    "id": "loan-a",
+    "lenderName": "Option A",
+    "annualRatePercent": 12,
+    "tenureMonths": 36,
+    "processingFee": 2000,
+    "minAmount": 50000,
+    "maxAmount": 1000000,
+    "notes": "Slightly higher processing fee, lower interest rate."
+  },
+  {
+    "id": "loan-b",
+    "lenderName": "Option B",
+    "annualRatePercent": 13.5,
+    "tenureMonths": 36,
+    "processingFee": 1000,
+    "minAmount": 50000,
+    "maxAmount": 800000,
+    "notes": "Lower processing fee, slightly higher interest rate."
+  },
+  {
+    "id": "loan-c",
+    "lenderName": "Option C",
+    "annualRatePercent": 11.5,
+    "tenureMonths": 48,
+    "processingFee": 2500,
+    "minAmount": 100000,
+    "maxAmount": 1500000,
+    "notes": "Longer tenure, lower EMI, more total interest."
+  }
+]
